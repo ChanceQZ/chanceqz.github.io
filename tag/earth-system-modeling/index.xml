@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Earth system modeling | Zhen Qian (钱振)</title>
+    <link>https://chanceqz.github.io/tag/earth-system-modeling/</link>
+      <atom:link href="https://chanceqz.github.io/tag/earth-system-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Earth system modeling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Zhen Qian (钱振)</copyright><lastBuildDate>Tue, 11 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chanceqz.github.io/media/icon_hu365d86525929a16329d404920cd6e0c9_33909_512x512_fill_lanczos_center_3.png</url>
+      <title>Earth system modeling</title>
+      <link>https://chanceqz.github.io/tag/earth-system-modeling/</link>
+    </image>
+    
+    <item>
+      <title>Iterative integration of deep learning in hybrid Earth surface system modelling</title>
+      <link>https://chanceqz.github.io/publication/iterative-hybrid-earth-surface-system-modeling/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://chanceqz.github.io/publication/iterative-hybrid-earth-surface-system-modeling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://chanceqz.github.io/sitemap.xml
