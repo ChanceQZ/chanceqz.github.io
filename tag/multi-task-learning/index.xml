@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-task learning | Zhen Qian (钱振)</title>
+    <link>https://chanceqz.github.io/tag/multi-task-learning/</link>
+      <atom:link href="https://chanceqz.github.io/tag/multi-task-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multi-task learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Zhen Qian (钱振)</copyright><lastBuildDate>Mon, 08 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chanceqz.github.io/media/icon_hu365d86525929a16329d404920cd6e0c9_33909_512x512_fill_lanczos_center_3.png</url>
+      <title>Multi-task learning</title>
+      <link>https://chanceqz.github.io/tag/multi-task-learning/</link>
+    </image>
+    
+    <item>
+      <title>Simultaneous extraction of spatial and attributional building information across large-scale urban landscapes from high-resolution satellite imagery</title>
+      <link>https://chanceqz.github.io/publication/simultaneous-extracting-diverse-building-information/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://chanceqz.github.io/publication/simultaneous-extracting-diverse-building-information/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

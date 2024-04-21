@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Street View Imagery | Zhen Qian (钱振)</title>
+    <link>https://chanceqz.github.io/tag/street-view-imagery/</link>
+      <atom:link href="https://chanceqz.github.io/tag/street-view-imagery/index.xml" rel="self" type="application/rss+xml" />
+    <description>Street View Imagery</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Zhen Qian (钱振)</copyright><lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chanceqz.github.io/media/icon_hu365d86525929a16329d404920cd6e0c9_33909_512x512_fill_lanczos_center_3.png</url>
+      <title>Street View Imagery</title>
+      <link>https://chanceqz.github.io/tag/street-view-imagery/</link>
+    </image>
+    
+    <item>
+      <title>Vectorized dataset of roadside noise barriers in China using street view imagery</title>
+      <link>https://chanceqz.github.io/publication/china-roadside-noise-barrier-data/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://chanceqz.github.io/publication/china-roadside-noise-barrier-data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

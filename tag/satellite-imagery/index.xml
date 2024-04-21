@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Satellite Imagery | Zhen Qian (钱振)</title>
+    <link>https://chanceqz.github.io/tag/satellite-imagery/</link>
+      <atom:link href="https://chanceqz.github.io/tag/satellite-imagery/index.xml" rel="self" type="application/rss+xml" />
+    <description>Satellite Imagery</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Zhen Qian (钱振)</copyright><lastBuildDate>Wed, 02 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chanceqz.github.io/media/icon_hu365d86525929a16329d404920cd6e0c9_33909_512x512_fill_lanczos_center_3.png</url>
+      <title>Satellite Imagery</title>
+      <link>https://chanceqz.github.io/tag/satellite-imagery/</link>
+    </image>
+    
+    <item>
+      <title>Vectorized rooftop area data for 90 cities in China</title>
+      <link>https://chanceqz.github.io/publication/china-90cities-rooftop-data/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://chanceqz.github.io/publication/china-90cities-rooftop-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Roof Refiner: A detail-oriented deep learning network for refined delineation of roof structure lines using satellite imagery</title>
+      <link>https://chanceqz.github.io/publication/deep-roof-refiner/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://chanceqz.github.io/publication/deep-roof-refiner/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

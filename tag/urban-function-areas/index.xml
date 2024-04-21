@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Urban Function Areas | Zhen Qian (钱振)</title>
+    <link>https://chanceqz.github.io/tag/urban-function-areas/</link>
+      <atom:link href="https://chanceqz.github.io/tag/urban-function-areas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Urban Function Areas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Zhen Qian (钱振)</copyright><lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chanceqz.github.io/media/icon_hu365d86525929a16329d404920cd6e0c9_33909_512x512_fill_lanczos_center_3.png</url>
+      <title>Urban Function Areas</title>
+      <link>https://chanceqz.github.io/tag/urban-function-areas/</link>
+    </image>
+    
+    <item>
+      <title>Identification of urban functional areas by coupling satellite images and taxi GPS trajectories</title>
+      <link>https://chanceqz.github.io/publication/urban-function-identification/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://chanceqz.github.io/publication/urban-function-identification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
