@@ -19,7 +19,7 @@ window.siteContent = {
   ],
   home: {
     title: "Zhen Qian (钱 振)",
-    eyebrow: "Earth System Science · Spatial-temporal AI",
+    eyebrow: "Earth System Science · Spatiotemporal Intelligence",
     intro:
       "I am a doctoral researcher in Earth System Modeling. I use observations, physical models, and machine learning to study Earth system dynamics, extreme events, and climate impacts on ecosystems.",
     affiliation:

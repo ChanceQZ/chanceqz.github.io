@@ -113,7 +113,7 @@ function renderResearch(data) {
   directionsSection.append(directions);
 
   const projectsSection = element("section", { className: "research-section" });
-  projectsSection.append(element("h2", { text: "Representative projects and papers" }));
+  projectsSection.append(element("h2", { text: "Featured papers" }));
   const projects = element("div", { className: "project-list" });
   for (const project of data.projects) {
     const projectLink = element("a", {
