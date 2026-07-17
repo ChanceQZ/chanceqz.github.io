@@ -12,6 +12,6 @@ export const site = {
   ],
   analytics: {
     provider: "goatcounter",
-    site: "",
+    site: "zqian-site",
   },
 };

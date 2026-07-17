@@ -32,7 +32,6 @@ test("builds complete, contentful HTML pages without a client-side content rende
       assert.match(html, /<footer class="site-footer">/);
       assert.match(html, /class="skip-link"/);
       assert.doesNotMatch(html, /assets\/content\.js/);
-      assert.doesNotMatch(html, /gc\.zgo\.at\/count\.js/);
     }
   });
 });
@@ -152,6 +151,26 @@ test("ships local images with intrinsic dimensions and lazy-loads non-critical p
     assert.match(research, /src="assets\/img\/papers\/IESM\.png\?v=[a-f0-9]{12}"/);
     assert.match(research, /href="assets\/docs\/CV_ZhenQian\.pdf\?v=[a-f0-9]{12}"/);
     assert.doesNotMatch(research, /assets\/img\/papers\/IESM\.jpg/);
+  });
+});
+
+test("prevents intrinsic image attributes from stretching presentation images", async () => {
+  const css = await readFile(new URL("../assets/styles.css", import.meta.url), "utf8");
+
+  assert.match(css, /\.home-portrait\s*\{[^}]*height:\s*auto;/s);
+  assert.match(css, /\.project-image\s*\{[^}]*height:\s*auto;/s);
+});
+
+test("includes the configured GoatCounter tracker on every generated page", async () => {
+  await withBuiltSite(async ({ read }) => {
+    for (const page of pageFiles) {
+      const html = await read(page);
+
+      assert.match(
+        html,
+        /<script data-goatcounter="https:\/\/zqian-site\.goatcounter\.com\/count" async src="https:\/\/gc\.zgo\.at\/count\.js"><\/script>/,
+      );
+    }
   });
 });
 
