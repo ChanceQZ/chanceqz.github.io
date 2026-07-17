@@ -1,0 +1,11 @@
+{
+  "name": "zhen-qian-academic-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/site.test.mjs",
+    "build": "node scripts/build.mjs",
+    "validate": "node scripts/validate.mjs",
+    "check": "npm run test && npm run build && npm run validate"
+  }
+}
